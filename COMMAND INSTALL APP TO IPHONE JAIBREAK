@@ -1,0 +1,11 @@
+INSTALL APP TO IPHONE JAIBREAK AT /Application WITH COMMAND LINE
+
+-----------------
+scp abc.app root@192.168.1.13:/Applications/
+ssh root@192.168.1.13
+cd //
+chmod /Applications/abc.app.abc
+uicache 
+------------------
+
+CAO PHUOC THANH
